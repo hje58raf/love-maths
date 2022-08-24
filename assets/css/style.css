@@ -1,5 +1,5 @@
 /* /* --------- Global style */
-/*
+
 body {
     background-color: white;
     font-family: "Raleway", sans-serif;
@@ -8,7 +8,7 @@ body {
 }
 
 /* --------- Heading */
-/*
+
 .heading {
     text-align: center;
     font-size: 2.5rem;
@@ -20,7 +20,7 @@ body {
 }
 
 /* --------- Game layout */
-/*
+
 .game-area {
     background-color: #E6ECF0;
     box-sizing: border-box;
@@ -85,7 +85,7 @@ body {
 }
 
 /* --------- Buttons */
-/*/
+
 .btn {
     width: 220px;
     height: 60px;
@@ -176,7 +176,7 @@ body {
 }
 
 /* --------- Media queries */
-/*
+
 @media (max-width: 414px) {
     .controls-area {
         width: 100%;
@@ -251,4 +251,3 @@ body {
 
 }
 Footer 
-*/
